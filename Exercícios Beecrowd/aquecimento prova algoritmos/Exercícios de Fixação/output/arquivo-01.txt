@@ -1,0 +1,2 @@
+Estudando Modos de Acesso: Usuario vs Kernel.
+Escrita realizada com sucesso utilizando fstream.

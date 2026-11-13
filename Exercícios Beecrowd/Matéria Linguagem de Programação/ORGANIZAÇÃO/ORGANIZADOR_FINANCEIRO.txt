@@ -1,0 +1,2 @@
+Receita;Salario Agosto ;2500.00;Nada a acrescentar
+Despesa;Lazer/Alimenta‡Æo;7.00;Coca-Cola
